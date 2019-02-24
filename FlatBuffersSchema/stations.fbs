@@ -1,0 +1,33 @@
+namespace FlatBuffersSchema.Stations;
+
+struct Coordinates {
+    lat:float;
+    lon:float;
+}
+
+table Geometry {
+    type:string;
+    coordinates:Coordinates;
+}
+
+table Properties {
+    description:string;
+    marker_symbol:string;
+    title:string;
+    url:string;
+    lines:[string];
+    address:string;
+}
+
+table Features {
+    geometry:Geometry;
+    type:string;
+    properties:Properties;
+}
+
+table FlatBuffersDocument {
+    type:string;
+    features:[Features];
+}
+
+root_type FlatBuffersDocument;

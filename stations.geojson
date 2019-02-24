@@ -12,7 +12,7 @@
             "type": "Feature",
             "properties": {
                 "description": "Southern Ave",
-                "marker-symbol": "rail-metro",
+                "marker_symbol": "rail-metro",
                 "title": "Southern Ave",
                 "url": "http://www.wmata.com/rider_tools/pids/showpid.cfm?station_id=107",
                 "lines": [
@@ -32,7 +32,7 @@
             "type": "Feature",
             "properties": {
                 "description": "Deanwood",
-                "marker-symbol": "rail-metro",
+                "marker_symbol": "rail-metro",
                 "title": "Deanwood",
                 "url": "http://www.wmata.com/rider_tools/pids/showpid.cfm?station_id=65",
                 "lines": [
@@ -52,7 +52,7 @@
             "type": "Feature",
             "properties": {
                 "description": "College Park",
-                "marker-symbol": "rail-metro",
+                "marker_symbol": "rail-metro",
                 "title": "College Park",
                 "url": "http://www.wmata.com/rider_tools/pids/showpid.cfm?station_id=79",
                 "lines": [
@@ -72,7 +72,7 @@
             "type": "Feature",
             "properties": {
                 "description": "Greenbelt",
-                "marker-symbol": "rail-metro",
+                "marker_symbol": "rail-metro",
                 "title": "Greenbelt",
                 "url": "http://www.wmata.com/rider_tools/pids/showpid.cfm?station_id=80",
                 "lines": [
@@ -92,7 +92,7 @@
             "type": "Feature",
             "properties": {
                 "description": "West Hyattsville",
-                "marker-symbol": "rail-metro",
+                "marker_symbol": "rail-metro",
                 "title": "West Hyattsville",
                 "url": "http://www.wmata.com/rider_tools/pids/showpid.cfm?station_id=77",
                 "lines": [
@@ -112,7 +112,7 @@
             "type": "Feature",
             "properties": {
                 "description": "Ballston",
-                "marker-symbol": "rail-metro",
+                "marker_symbol": "rail-metro",
                 "title": "Ballston",
                 "url": "http://www.wmata.com/rider_tools/pids/showpid.cfm?station_id=99",
                 "lines": [
@@ -133,7 +133,7 @@
             "type": "Feature",
             "properties": {
                 "description": "Braddock Road",
-                "marker-symbol": "rail-metro",
+                "marker_symbol": "rail-metro",
                 "title": "Braddock Road",
                 "url": "http://www.wmata.com/rider_tools/pids/showpid.cfm?station_id=47",
                 "lines": [
@@ -154,7 +154,7 @@
             "type": "Feature",
             "properties": {
                 "description": "Morgan Blvd",
-                "marker-symbol": "rail-metro",
+                "marker_symbol": "rail-metro",
                 "title": "Morgan Blvd",
                 "url": "http://www.wmata.com/rider_tools/pids/showpid.cfm?station_id=110",
                 "lines": [
@@ -175,7 +175,7 @@
             "type": "Feature",
             "properties": {
                 "description": "Arlington Cemetery",
-                "marker-symbol": "rail-metro",
+                "marker_symbol": "rail-metro",
                 "title": "Arlington Cemetery",
                 "url": "http://www.wmata.com/rider_tools/pids/showpid.cfm?station_id=42",
                 "lines": [
@@ -195,7 +195,7 @@
             "type": "Feature",
             "properties": {
                 "description": "Cleveland Park",
-                "marker-symbol": "rail-metro",
+                "marker_symbol": "rail-metro",
                 "title": "Cleveland Park",
                 "url": "http://www.wmata.com/rider_tools/pids/showpid.cfm?station_id=8",
                 "lines": [
@@ -215,7 +215,7 @@
             "type": "Feature",
             "properties": {
                 "description": "Shady Grove",
-                "marker-symbol": "rail-metro",
+                "marker_symbol": "rail-metro",
                 "title": "Shady Grove",
                 "url": "http://www.wmata.com/rider_tools/pids/showpid.cfm?station_id=18",
                 "lines": [
@@ -235,7 +235,7 @@
             "type": "Feature",
             "properties": {
                 "description": "Anacostia",
-                "marker-symbol": "rail-metro",
+                "marker_symbol": "rail-metro",
                 "title": "Anacostia",
                 "url": "http://www.wmata.com/rider_tools/pids/showpid.cfm?station_id=85",
                 "lines": [
@@ -255,7 +255,7 @@
             "type": "Feature",
             "properties": {
                 "description": "Stadium Armory",
-                "marker-symbol": "rail-metro",
+                "marker_symbol": "rail-metro",
                 "title": "Stadium Armory",
                 "url": "http://www.wmata.com/rider_tools/pids/showpid.cfm?station_id=63",
                 "lines": [
@@ -277,7 +277,7 @@
             "type": "Feature",
             "properties": {
                 "description": "Twinbrook",
-                "marker-symbol": "rail-metro",
+                "marker_symbol": "rail-metro",
                 "title": "Twinbrook",
                 "url": "http://www.wmata.com/rider_tools/pids/showpid.cfm?station_id=16",
                 "lines": [
@@ -297,7 +297,7 @@
             "type": "Feature",
             "properties": {
                 "description": "Bethesda",
-                "marker-symbol": "rail-metro",
+                "marker_symbol": "rail-metro",
                 "title": "Bethesda",
                 "url": "http://www.wmata.com/rider_tools/pids/showpid.cfm?station_id=12",
                 "lines": [
@@ -317,7 +317,7 @@
             "type": "Feature",
             "properties": {
                 "description": "Naylor Road",
-                "marker-symbol": "rail-metro",
+                "marker_symbol": "rail-metro",
                 "title": "Naylor Road",
                 "url": "http://www.wmata.com/rider_tools/pids/showpid.cfm?station_id=87",
                 "lines": [
@@ -337,7 +337,7 @@
             "type": "Feature",
             "properties": {
                 "description": "Capitol South",
-                "marker-symbol": "rail-metro",
+                "marker_symbol": "rail-metro",
                 "title": "Capitol South",
                 "url": "http://www.wmata.com/rider_tools/pids/showpid.cfm?station_id=59",
                 "lines": [
@@ -359,7 +359,7 @@
             "type": "Feature",
             "properties": {
                 "description": "Minnesota Avenue",
-                "marker-symbol": "rail-metro",
+                "marker_symbol": "rail-metro",
                 "title": "Minnesota Avenue",
                 "url": "http://www.wmata.com/rider_tools/pids/showpid.cfm?station_id=64",
                 "lines": [
@@ -379,7 +379,7 @@
             "type": "Feature",
             "properties": {
                 "description": "Dunn Loring",
-                "marker-symbol": "rail-metro",
+                "marker_symbol": "rail-metro",
                 "title": "Dunn Loring",
                 "url": "http://www.wmata.com/rider_tools/pids/showpid.cfm?station_id=102",
                 "lines": [
@@ -399,7 +399,7 @@
             "type": "Feature",
             "properties": {
                 "description": "Van Dorn St",
-                "marker-symbol": "rail-metro",
+                "marker_symbol": "rail-metro",
                 "title": "Van Dorn St",
                 "url": "http://www.wmata.com/rider_tools/pids/showpid.cfm?station_id=94",
                 "lines": [
@@ -419,7 +419,7 @@
             "type": "Feature",
             "properties": {
                 "description": "Forest Glen",
-                "marker-symbol": "rail-metro",
+                "marker_symbol": "rail-metro",
                 "title": "Forest Glen",
                 "url": "http://www.wmata.com/rider_tools/pids/showpid.cfm?station_id=32",
                 "lines": [
@@ -439,7 +439,7 @@
             "type": "Feature",
             "properties": {
                 "description": "Capitol Heights",
-                "marker-symbol": "rail-metro",
+                "marker_symbol": "rail-metro",
                 "title": "Capitol Heights",
                 "url": "http://www.wmata.com/rider_tools/pids/showpid.cfm?station_id=91",
                 "lines": [
@@ -460,7 +460,7 @@
             "type": "Feature",
             "properties": {
                 "description": "Medical Center",
-                "marker-symbol": "rail-metro",
+                "marker_symbol": "rail-metro",
                 "title": "Medical Center",
                 "url": "http://www.wmata.com/rider_tools/pids/showpid.cfm?station_id=13",
                 "lines": [
@@ -480,7 +480,7 @@
             "type": "Feature",
             "properties": {
                 "description": "McPherson Square",
-                "marker-symbol": "rail-metro",
+                "marker_symbol": "rail-metro",
                 "title": "McPherson Square",
                 "url": "http://www.wmata.com/rider_tools/pids/showpid.cfm?station_id=36",
                 "lines": [
@@ -502,7 +502,7 @@
             "type": "Feature",
             "properties": {
                 "description": "Greensboro",
-                "marker-symbol": "rail-metro",
+                "marker_symbol": "rail-metro",
                 "title": "Greensboro",
                 "url": "http://www.wmata.com/rider_tools/pids/showpid.cfm?station_id=113",
                 "lines": [
@@ -522,7 +522,7 @@
             "type": "Feature",
             "properties": {
                 "description": "Crystal City",
-                "marker-symbol": "rail-metro",
+                "marker_symbol": "rail-metro",
                 "title": "Crystal City",
                 "url": "http://www.wmata.com/rider_tools/pids/showpid.cfm?station_id=45",
                 "lines": [
@@ -543,7 +543,7 @@
             "type": "Feature",
             "properties": {
                 "description": "Shaw",
-                "marker-symbol": "rail-metro",
+                "marker_symbol": "rail-metro",
                 "title": "Shaw",
                 "url": "http://www.wmata.com/rider_tools/pids/showpid.cfm?station_id=72",
                 "lines": [
@@ -564,7 +564,7 @@
             "type": "Feature",
             "properties": {
                 "description": "Mt Vernon Sq",
-                "marker-symbol": "rail-metro",
+                "marker_symbol": "rail-metro",
                 "title": "Mt Vernon Sq",
                 "url": "http://www.wmata.com/rider_tools/pids/showpid.cfm?station_id=70",
                 "lines": [
@@ -585,7 +585,7 @@
             "type": "Feature",
             "properties": {
                 "description": "L'Enfant Plaza",
-                "marker-symbol": "rail-metro",
+                "marker_symbol": "rail-metro",
                 "title": "L'Enfant Plaza",
                 "url": "http://www.wmata.com/rider_tools/pids/showpid.cfm?station_id=82",
                 "lines": [
@@ -609,7 +609,7 @@
             "type": "Feature",
             "properties": {
                 "description": "Smithsonian",
-                "marker-symbol": "rail-metro",
+                "marker_symbol": "rail-metro",
                 "title": "Smithsonian",
                 "url": "http://www.wmata.com/rider_tools/pids/showpid.cfm?station_id=54",
                 "lines": [
@@ -631,7 +631,7 @@
             "type": "Feature",
             "properties": {
                 "description": "National Arpt",
-                "marker-symbol": "rail-metro",
+                "marker_symbol": "rail-metro",
                 "title": "National Arpt",
                 "url": "http://www.wmata.com/rider_tools/pids/showpid.cfm?station_id=93",
                 "lines": [
@@ -652,7 +652,7 @@
             "type": "Feature",
             "properties": {
                 "description": "U Street",
-                "marker-symbol": "rail-metro",
+                "marker_symbol": "rail-metro",
                 "title": "U Street",
                 "url": "http://www.wmata.com/rider_tools/pids/showpid.cfm?station_id=73",
                 "lines": [
@@ -673,7 +673,7 @@
             "type": "Feature",
             "properties": {
                 "description": "Huntington",
-                "marker-symbol": "rail-metro",
+                "marker_symbol": "rail-metro",
                 "title": "Huntington",
                 "url": "http://www.wmata.com/rider_tools/pids/showpid.cfm?station_id=50",
                 "lines": [
@@ -693,7 +693,7 @@
             "type": "Feature",
             "properties": {
                 "description": "Gallery Place",
-                "marker-symbol": "rail-metro",
+                "marker_symbol": "rail-metro",
                 "title": "Gallery Place",
                 "url": "http://www.wmata.com/rider_tools/pids/showpid.cfm?station_id=21",
                 "lines": [
@@ -715,7 +715,7 @@
             "type": "Feature",
             "properties": {
                 "description": "Tenleytown",
-                "marker-symbol": "rail-metro",
+                "marker_symbol": "rail-metro",
                 "title": "Tenleytown",
                 "url": "http://www.wmata.com/rider_tools/pids/showpid.cfm?station_id=10",
                 "lines": [
@@ -735,7 +735,7 @@
             "type": "Feature",
             "properties": {
                 "description": "Columbia Heights",
-                "marker-symbol": "rail-metro",
+                "marker_symbol": "rail-metro",
                 "title": "Columbia Heights",
                 "url": "http://www.wmata.com/rider_tools/pids/showpid.cfm?station_id=75",
                 "lines": [
@@ -756,7 +756,7 @@
             "type": "Feature",
             "properties": {
                 "description": "White Flint",
-                "marker-symbol": "rail-metro",
+                "marker_symbol": "rail-metro",
                 "title": "White Flint",
                 "url": "http://www.wmata.com/rider_tools/pids/showpid.cfm?station_id=15",
                 "lines": [
@@ -776,7 +776,7 @@
             "type": "Feature",
             "properties": {
                 "description": "Georgia Avenue",
-                "marker-symbol": "rail-metro",
+                "marker_symbol": "rail-metro",
                 "title": "Georgia Avenue",
                 "url": "http://www.wmata.com/rider_tools/pids/showpid.cfm?station_id=76",
                 "lines": [
@@ -797,7 +797,7 @@
             "type": "Feature",
             "properties": {
                 "description": "Addison Road",
-                "marker-symbol": "rail-metro",
+                "marker_symbol": "rail-metro",
                 "title": "Addison Road",
                 "url": "http://www.wmata.com/rider_tools/pids/showpid.cfm?station_id=92",
                 "lines": [
@@ -818,7 +818,7 @@
             "type": "Feature",
             "properties": {
                 "description": "Metro Center",
-                "marker-symbol": "rail-metro",
+                "marker_symbol": "rail-metro",
                 "title": "Metro Center",
                 "url": "http://www.wmata.com/rider_tools/pids/showpid.cfm?station_id=1",
                 "lines": [
@@ -841,7 +841,7 @@
             "type": "Feature",
             "properties": {
                 "description": "McLean",
-                "marker-symbol": "rail-metro",
+                "marker_symbol": "rail-metro",
                 "title": "McLean",
                 "url": "http://www.wmata.com/rider_tools/pids/showpid.cfm?station_id=111",
                 "lines": [
@@ -861,7 +861,7 @@
             "type": "Feature",
             "properties": {
                 "description": "Brookland",
-                "marker-symbol": "rail-metro",
+                "marker_symbol": "rail-metro",
                 "title": "Brookland",
                 "url": "http://www.wmata.com/rider_tools/pids/showpid.cfm?station_id=27",
                 "lines": [
@@ -881,7 +881,7 @@
             "type": "Feature",
             "properties": {
                 "description": "Pentagon",
-                "marker-symbol": "rail-metro",
+                "marker_symbol": "rail-metro",
                 "title": "Pentagon",
                 "url": "http://www.wmata.com/rider_tools/pids/showpid.cfm?station_id=43",
                 "lines": [
@@ -902,7 +902,7 @@
             "type": "Feature",
             "properties": {
                 "description": "Potomac Avenue",
-                "marker-symbol": "rail-metro",
+                "marker_symbol": "rail-metro",
                 "title": "Potomac Avenue",
                 "url": "http://www.wmata.com/rider_tools/pids/showpid.cfm?station_id=61",
                 "lines": [
@@ -924,7 +924,7 @@
             "type": "Feature",
             "properties": {
                 "description": "Silver Spring",
-                "marker-symbol": "rail-metro",
+                "marker_symbol": "rail-metro",
                 "title": "Silver Spring",
                 "url": "http://www.wmata.com/rider_tools/pids/showpid.cfm?station_id=31",
                 "lines": [
@@ -944,7 +944,7 @@
             "type": "Feature",
             "properties": {
                 "description": "Pentagon City",
-                "marker-symbol": "rail-metro",
+                "marker_symbol": "rail-metro",
                 "title": "Pentagon City",
                 "url": "http://www.wmata.com/rider_tools/pids/showpid.cfm?station_id=44",
                 "lines": [
@@ -965,7 +965,7 @@
             "type": "Feature",
             "properties": {
                 "description": "Vienna",
-                "marker-symbol": "rail-metro",
+                "marker_symbol": "rail-metro",
                 "title": "Vienna",
                 "url": "http://www.wmata.com/rider_tools/pids/showpid.cfm?station_id=103",
                 "lines": [
@@ -985,7 +985,7 @@
             "type": "Feature",
             "properties": {
                 "description": "Eastern Market",
-                "marker-symbol": "rail-metro",
+                "marker_symbol": "rail-metro",
                 "title": "Eastern Market",
                 "url": "http://www.wmata.com/rider_tools/pids/showpid.cfm?station_id=60",
                 "lines": [
@@ -1007,7 +1007,7 @@
             "type": "Feature",
             "properties": {
                 "description": "Virginia Square",
-                "marker-symbol": "rail-metro",
+                "marker_symbol": "rail-metro",
                 "title": "Virginia Square",
                 "url": "http://www.wmata.com/rider_tools/pids/showpid.cfm?station_id=98",
                 "lines": [
@@ -1028,7 +1028,7 @@
             "type": "Feature",
             "properties": {
                 "description": "Farragut West",
-                "marker-symbol": "rail-metro",
+                "marker_symbol": "rail-metro",
                 "title": "Farragut West",
                 "url": "http://www.wmata.com/rider_tools/pids/showpid.cfm?station_id=38",
                 "lines": [
@@ -1050,7 +1050,7 @@
             "type": "Feature",
             "properties": {
                 "description": "Dupont Circle",
-                "marker-symbol": "rail-metro",
+                "marker_symbol": "rail-metro",
                 "title": "Dupont Circle",
                 "url": "http://www.wmata.com/rider_tools/pids/showpid.cfm?station_id=6",
                 "lines": [
@@ -1070,7 +1070,7 @@
             "type": "Feature",
             "properties": {
                 "description": "Branch Avenue",
-                "marker-symbol": "rail-metro",
+                "marker_symbol": "rail-metro",
                 "title": "Branch Avenue",
                 "url": "http://www.wmata.com/rider_tools/pids/showpid.cfm?station_id=89",
                 "lines": [
@@ -1090,7 +1090,7 @@
             "type": "Feature",
             "properties": {
                 "description": "Congress Height",
-                "marker-symbol": "rail-metro",
+                "marker_symbol": "rail-metro",
                 "title": "Congress Height",
                 "url": "http://www.wmata.com/rider_tools/pids/showpid.cfm?station_id=86",
                 "lines": [
@@ -1110,7 +1110,7 @@
             "type": "Feature",
             "properties": {
                 "description": "Cheverly",
-                "marker-symbol": "rail-metro",
+                "marker_symbol": "rail-metro",
                 "title": "Cheverly",
                 "url": "http://www.wmata.com/rider_tools/pids/showpid.cfm?station_id=66",
                 "lines": [
@@ -1130,7 +1130,7 @@
             "type": "Feature",
             "properties": {
                 "description": "Union Station",
-                "marker-symbol": "rail-metro",
+                "marker_symbol": "rail-metro",
                 "title": "Union Station",
                 "url": "http://www.wmata.com/rider_tools/pids/showpid.cfm?station_id=25",
                 "lines": [
@@ -1150,7 +1150,7 @@
             "type": "Feature",
             "properties": {
                 "description": "Rockville",
-                "marker-symbol": "rail-metro",
+                "marker_symbol": "rail-metro",
                 "title": "Rockville",
                 "url": "http://www.wmata.com/rider_tools/pids/showpid.cfm?station_id=17",
                 "lines": [
@@ -1170,7 +1170,7 @@
             "type": "Feature",
             "properties": {
                 "description": "Judiciary Square",
-                "marker-symbol": "rail-metro",
+                "marker_symbol": "rail-metro",
                 "title": "Judiciary Square",
                 "url": "http://www.wmata.com/rider_tools/pids/showpid.cfm?station_id=23",
                 "lines": [
@@ -1190,7 +1190,7 @@
             "type": "Feature",
             "properties": {
                 "description": "Friendship Heights",
-                "marker-symbol": "rail-metro",
+                "marker_symbol": "rail-metro",
                 "title": "Friendship Heights",
                 "url": "http://www.wmata.com/rider_tools/pids/showpid.cfm?station_id=11",
                 "lines": [
@@ -1210,7 +1210,7 @@
             "type": "Feature",
             "properties": {
                 "description": "Wheaton",
-                "marker-symbol": "rail-metro",
+                "marker_symbol": "rail-metro",
                 "title": "Wheaton",
                 "url": "http://www.wmata.com/rider_tools/pids/showpid.cfm?station_id=33",
                 "lines": [
@@ -1230,7 +1230,7 @@
             "type": "Feature",
             "properties": {
                 "description": "Largo Town Center",
-                "marker-symbol": "rail-metro",
+                "marker_symbol": "rail-metro",
                 "title": "Largo Town Center",
                 "url": "http://www.wmata.com/rider_tools/pids/showpid.cfm?station_id=109",
                 "lines": [
@@ -1251,7 +1251,7 @@
             "type": "Feature",
             "properties": {
                 "description": "Wiehle-Reston East",
-                "marker-symbol": "rail-metro",
+                "marker_symbol": "rail-metro",
                 "title": "Wiehle-Reston East",
                 "url": "http://www.wmata.com/rider_tools/pids/showpid.cfm?station_id=115",
                 "lines": [
@@ -1271,7 +1271,7 @@
             "type": "Feature",
             "properties": {
                 "description": "Takoma",
-                "marker-symbol": "rail-metro",
+                "marker_symbol": "rail-metro",
                 "title": "Takoma",
                 "url": "http://www.wmata.com/rider_tools/pids/showpid.cfm?station_id=29",
                 "lines": [
@@ -1291,7 +1291,7 @@
             "type": "Feature",
             "properties": {
                 "description": "Waterfront",
-                "marker-symbol": "rail-metro",
+                "marker_symbol": "rail-metro",
                 "title": "Waterfront",
                 "url": "http://www.wmata.com/rider_tools/pids/showpid.cfm?station_id=83",
                 "lines": [
@@ -1311,7 +1311,7 @@
             "type": "Feature",
             "properties": {
                 "description": "Landover",
-                "marker-symbol": "rail-metro",
+                "marker_symbol": "rail-metro",
                 "title": "Landover",
                 "url": "http://www.wmata.com/rider_tools/pids/showpid.cfm?station_id=67",
                 "lines": [
@@ -1331,7 +1331,7 @@
             "type": "Feature",
             "properties": {
                 "description": "Archives",
-                "marker-symbol": "rail-metro",
+                "marker_symbol": "rail-metro",
                 "title": "Archives",
                 "url": "http://www.wmata.com/rider_tools/pids/showpid.cfm?station_id=81",
                 "lines": [
@@ -1352,7 +1352,7 @@
             "type": "Feature",
             "properties": {
                 "description": "Rosslyn",
-                "marker-symbol": "rail-metro",
+                "marker_symbol": "rail-metro",
                 "title": "Rosslyn",
                 "url": "http://www.wmata.com/rider_tools/pids/showpid.cfm?station_id=41",
                 "lines": [
@@ -1374,7 +1374,7 @@
             "type": "Feature",
             "properties": {
                 "description": "New York Avenue",
-                "marker-symbol": "rail-metro",
+                "marker_symbol": "rail-metro",
                 "title": "New York Avenue",
                 "url": "http://www.wmata.com/rider_tools/pids/showpid.cfm?station_id=108",
                 "lines": [
@@ -1394,7 +1394,7 @@
             "type": "Feature",
             "properties": {
                 "description": "W Falls Church",
-                "marker-symbol": "rail-metro",
+                "marker_symbol": "rail-metro",
                 "title": "W Falls Church",
                 "url": "http://www.wmata.com/rider_tools/pids/showpid.cfm?station_id=101",
                 "lines": [
@@ -1414,7 +1414,7 @@
             "type": "Feature",
             "properties": {
                 "description": "Clarendon",
-                "marker-symbol": "rail-metro",
+                "marker_symbol": "rail-metro",
                 "title": "Clarendon",
                 "url": "http://www.wmata.com/rider_tools/pids/showpid.cfm?station_id=97",
                 "lines": [
@@ -1435,7 +1435,7 @@
             "type": "Feature",
             "properties": {
                 "description": "Glenmont",
-                "marker-symbol": "rail-metro",
+                "marker_symbol": "rail-metro",
                 "title": "Glenmont",
                 "url": "http://www.wmata.com/rider_tools/pids/showpid.cfm?station_id=34",
                 "lines": [
@@ -1455,7 +1455,7 @@
             "type": "Feature",
             "properties": {
                 "description": "Tysons Corner",
-                "marker-symbol": "rail-metro",
+                "marker_symbol": "rail-metro",
                 "title": "Tysons Corner",
                 "url": "http://www.wmata.com/rider_tools/pids/showpid.cfm?station_id=112",
                 "lines": [
@@ -1475,7 +1475,7 @@
             "type": "Feature",
             "properties": {
                 "description": "Van Ness UDC",
-                "marker-symbol": "rail-metro",
+                "marker_symbol": "rail-metro",
                 "title": "Van Ness UDC",
                 "url": "http://www.wmata.com/rider_tools/pids/showpid.cfm?station_id=9",
                 "lines": [
@@ -1495,7 +1495,7 @@
             "type": "Feature",
             "properties": {
                 "description": "Spring Hill",
-                "marker-symbol": "rail-metro",
+                "marker_symbol": "rail-metro",
                 "title": "Spring Hill",
                 "url": "http://www.wmata.com/rider_tools/pids/showpid.cfm?station_id=114",
                 "lines": [
@@ -1515,7 +1515,7 @@
             "type": "Feature",
             "properties": {
                 "description": "Court House",
-                "marker-symbol": "rail-metro",
+                "marker_symbol": "rail-metro",
                 "title": "Court House",
                 "url": "http://www.wmata.com/rider_tools/pids/showpid.cfm?station_id=96",
                 "lines": [
@@ -1536,7 +1536,7 @@
             "type": "Feature",
             "properties": {
                 "description": "Federal Center SW",
-                "marker-symbol": "rail-metro",
+                "marker_symbol": "rail-metro",
                 "title": "Federal Center SW",
                 "url": "http://www.wmata.com/rider_tools/pids/showpid.cfm?station_id=58",
                 "lines": [
@@ -1558,7 +1558,7 @@
             "type": "Feature",
             "properties": {
                 "description": "Woodley Park Zoo",
-                "marker-symbol": "rail-metro",
+                "marker_symbol": "rail-metro",
                 "title": "Woodley Park Zoo",
                 "url": "http://www.wmata.com/rider_tools/pids/showpid.cfm?station_id=7",
                 "lines": [
@@ -1578,7 +1578,7 @@
             "type": "Feature",
             "properties": {
                 "description": "Grosvenor",
-                "marker-symbol": "rail-metro",
+                "marker_symbol": "rail-metro",
                 "title": "Grosvenor",
                 "url": "http://www.wmata.com/rider_tools/pids/showpid.cfm?station_id=14",
                 "lines": [
@@ -1598,7 +1598,7 @@
             "type": "Feature",
             "properties": {
                 "description": "Fort Totten",
-                "marker-symbol": "rail-metro",
+                "marker_symbol": "rail-metro",
                 "title": "Fort Totten",
                 "url": "http://www.wmata.com/rider_tools/pids/showpid.cfm?station_id=28",
                 "lines": [
@@ -1620,7 +1620,7 @@
             "type": "Feature",
             "properties": {
                 "description": "Federal Triangle",
-                "marker-symbol": "rail-metro",
+                "marker_symbol": "rail-metro",
                 "title": "Federal Triangle",
                 "url": "http://www.wmata.com/rider_tools/pids/showpid.cfm?station_id=53",
                 "lines": [
@@ -1642,7 +1642,7 @@
             "type": "Feature",
             "properties": {
                 "description": "Foggy Bottom",
-                "marker-symbol": "rail-metro",
+                "marker_symbol": "rail-metro",
                 "title": "Foggy Bottom",
                 "url": "http://www.wmata.com/rider_tools/pids/showpid.cfm?station_id=40",
                 "lines": [
@@ -1664,7 +1664,7 @@
             "type": "Feature",
             "properties": {
                 "description": "Benning Road",
-                "marker-symbol": "rail-metro",
+                "marker_symbol": "rail-metro",
                 "title": "Benning Road",
                 "url": "http://www.wmata.com/rider_tools/pids/showpid.cfm?station_id=90",
                 "lines": [
@@ -1685,7 +1685,7 @@
             "type": "Feature",
             "properties": {
                 "description": "Navy Yard",
-                "marker-symbol": "rail-metro",
+                "marker_symbol": "rail-metro",
                 "title": "Navy Yard",
                 "url": "http://www.wmata.com/rider_tools/pids/showpid.cfm?station_id=84",
                 "lines": [
@@ -1705,7 +1705,7 @@
             "type": "Feature",
             "properties": {
                 "description": "Farragut North",
-                "marker-symbol": "rail-metro",
+                "marker_symbol": "rail-metro",
                 "title": "Farragut North",
                 "url": "http://www.wmata.com/rider_tools/pids/showpid.cfm?station_id=4",
                 "lines": [
@@ -1725,7 +1725,7 @@
             "type": "Feature",
             "properties": {
                 "description": "Eisenhower Avenue",
-                "marker-symbol": "rail-metro",
+                "marker_symbol": "rail-metro",
                 "title": "Eisenhower Avenue",
                 "url": "http://www.wmata.com/rider_tools/pids/showpid.cfm?station_id=49",
                 "lines": [
@@ -1745,7 +1745,7 @@
             "type": "Feature",
             "properties": {
                 "description": "Prince Georges Plaza",
-                "marker-symbol": "rail-metro",
+                "marker_symbol": "rail-metro",
                 "title": "Prince Georges Plaza",
                 "url": "http://www.wmata.com/rider_tools/pids/showpid.cfm?station_id=78",
                 "lines": [
@@ -1765,7 +1765,7 @@
             "type": "Feature",
             "properties": {
                 "description": "E Falls Church",
-                "marker-symbol": "rail-metro",
+                "marker_symbol": "rail-metro",
                 "title": "E Falls Church",
                 "url": "http://www.wmata.com/rider_tools/pids/showpid.cfm?station_id=100",
                 "lines": [
@@ -1786,7 +1786,7 @@
             "type": "Feature",
             "properties": {
                 "description": "King Street",
-                "marker-symbol": "rail-metro",
+                "marker_symbol": "rail-metro",
                 "title": "King Street",
                 "url": "http://www.wmata.com/rider_tools/pids/showpid.cfm?station_id=48",
                 "lines": [
@@ -1807,7 +1807,7 @@
             "type": "Feature",
             "properties": {
                 "description": "Rhode Island Avenue",
-                "marker-symbol": "rail-metro",
+                "marker_symbol": "rail-metro",
                 "title": "Rhode Island Avenue",
                 "url": "http://www.wmata.com/rider_tools/pids/showpid.cfm?station_id=26",
                 "lines": [
@@ -1827,7 +1827,7 @@
             "type": "Feature",
             "properties": {
                 "description": "Franconia-Springf'ld",
-                "marker-symbol": "rail-metro",
+                "marker_symbol": "rail-metro",
                 "title": "Franconia-Springf'ld",
                 "url": "http://www.wmata.com/rider_tools/pids/showpid.cfm?station_id=95",
                 "lines": [
@@ -1847,7 +1847,7 @@
             "type": "Feature",
             "properties": {
                 "description": "Suitland",
-                "marker-symbol": "rail-metro",
+                "marker_symbol": "rail-metro",
                 "title": "Suitland",
                 "url": "http://www.wmata.com/rider_tools/pids/showpid.cfm?station_id=88",
                 "lines": [
@@ -1867,7 +1867,7 @@
             "type": "Feature",
             "properties": {
                 "description": "New Carrollton",
-                "marker-symbol": "rail-metro",
+                "marker_symbol": "rail-metro",
                 "title": "New Carrollton",
                 "url": "http://www.wmata.com/rider_tools/pids/showpid.cfm?station_id=68",
                 "lines": [
